@@ -34,7 +34,6 @@
       <td>服务端</td>
       <td>Java + Spring Boot + MySQL + Redis + Docker + JPA + MyBatis</td>
     </tr>
-
     <tr>
       <td>
         <a href="https://github.com/inlym/life-helper-miniprogram"><b>life-helper-miniprogram</b></a>
@@ -42,7 +41,6 @@
       <td>微信小程序</td>
       <td>TypeScript</td>
     </tr>
-
     <tr>
       <td>
         <a href="https://github.com/inlym/life-helper-web"><b>life-helper-web</b></a>
