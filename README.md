@@ -1,7 +1,7 @@
-<h2>Hey! Nice to see you.</h2>
+<h2>👋 Hey! Nice to see you.</h2>
 <p>嗨 ~ 欢迎访问我的个人主页，我是一个独立开发者，你可以通过我参与的项目来了解我。</p>
 
-<h3>🏗 技术栈</h3>
+<h3>🛠️ 技术栈</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-46a2f1?style=flat-square&logo=java&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -15,14 +15,14 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
-<h3>💥 小鸣助手</h3>
-<p>「小鸣助手」是我独立开发的主要项目，自2019年起已上线运营4年，相关源码均已开源。官网地址：<a href="https://www.lifehelper.com.cn/" target="_blank"><b>www.lifehelper.com.cn</b></a></p>
+<h3>❤️ 小鸣助手</h3>
+<p>「小鸣助手」是我独立开发的主要项目，自2019年起已上线运营4年，相关源码均已开源。官网地址：<a href="https://www.lifehelper.com.cn/"><b>www.lifehelper.com.cn</b></a></p>
 <table>
   <thead align="center">
     <tr>
-      <td><b>🎉 仓库</b></td>
-      <td><b>🍱 介绍</b></td>
-      <td><b>🔥 技术栈</b></td>
+      <td><b>🏆 仓库</b></td>
+      <td><b>📜 介绍</b></td>
+      <td><b>💻 技术栈</b></td>
     </tr>
   </thead>
   <tbody>
