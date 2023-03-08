@@ -16,7 +16,7 @@
 </p>
 
 <h3>小鸣助手</h3>
-<p>「小鸣助手」是我独立开发的主要项目，自2019年起已上线运营4年，相关源码均已开源。</p>
+<p>「小鸣助手」是我独立开发的主要项目，自2019年起已上线运营4年，相关源码均已开源。官网地址：<a href="https://www.lifehelper.com.cn/"><b>www.lifehelper.com.cn</b></a></p>
 <table>
   <thead align="center">
     <tr>
@@ -25,7 +25,6 @@
       <td><b>🔥 技术栈</b></td>
     </tr>
   </thead>
-
   <tbody>
     <tr>
       <td>
@@ -49,5 +48,25 @@
       <td>Angular + TypeScript + RxJS</td>
     </tr>
 
+  </tbody>
+</table>
+
+<h3>扫码关注</h3>
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>「小鸣助手」小程序</b></td>
+      <td><b>「小鸣助手」公众号</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img alt="「小鸣助手」小程序" src="./assets/qrcode/miniprogram.jpg" />
+      </td>
+      <td>
+        <img alt="「小鸣助手」小程序" src="./assets/qrcode/offiaccount.jpg" />
+      </td>
+    </tr>
   </tbody>
 </table>
