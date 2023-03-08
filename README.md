@@ -62,10 +62,10 @@
   <tbody>
     <tr>
       <td>
-        <img alt="「小鸣助手」小程序" src="./assets/qrcode/miniprogram.jpg" />
+        <img alt="「小鸣助手」小程序" src="./assets/qrcode/miniprogram.jpg" width="180" />
       </td>
       <td>
-        <img alt="「小鸣助手」小程序" src="./assets/qrcode/offiaccount.jpg" />
+        <img alt="「小鸣助手」公众号" src="./assets/qrcode/offiaccount.jpg" width="180" />
       </td>
     </tr>
   </tbody>
