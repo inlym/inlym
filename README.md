@@ -16,7 +16,7 @@
 </p>
 
 <h3>小鸣助手</h3>
-<p>「小鸣助手」是我独立开发的主要项目，自2019年起已上线运营4年，相关源码均已开源。官网地址：<a href="https://www.lifehelper.com.cn/"><b>www.lifehelper.com.cn</b></a></p>
+<p>「小鸣助手」是我独立开发的主要项目，自2019年起已上线运营4年，相关源码均已开源。官网地址：<a href="https://www.lifehelper.com.cn/" target="_blank"><b>www.lifehelper.com.cn</b></a></p>
 <table>
   <thead align="center">
     <tr>
