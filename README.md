@@ -16,7 +16,7 @@
 </p>
 
 <h3>❤️ 小鸣助手</h3>
-<p>「小鸣助手」是我独立开发的主要项目，自2019年起已上线运营 5 年，相关源码均已开源。官网地址：<a href="https://www.lifehelper.com.cn/"><b>www.lifehelper.com.cn</b></a></p>
+<p>「小鸣助手」是笔者独立开发的主要项目，自2019年起已上线运营5年，拥有20万的注册用户。相关源码均已开源。官网地址：<a href="https://www.weutil.com/"><b>www.weutil.com</b></a></p>
 <table>
   <thead align="center">
     <tr>
@@ -31,22 +31,44 @@
         <a href="https://github.com/inlym/life-helper-server"><b>life-helper-server</b></a>
       </td>
       <td>服务端</td>
-      <td>Java + Spring Boot + MySQL + Redis + Docker + JPA + MyBatis</td>
+      <td>Java + Spring Boot + MySQL + Redis + Docker + MyBatis-Flex</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/inlym/life-helper-web-vue"><b>life-helper-web-vue</b></a>
+      </td>
+      <td>Web端</td>
+      <td>Vue.js + TypeScript + Pinia</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/inlym/life-helper-taro"><b>life-helper-taro</b></a>
+      </td>
+      <td>微信小程序</td>
+      <td>Taro.js + TypeScript + Vue.js</td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/inlym/life-helper-miniprogram"><b>life-helper-miniprogram</b></a>
       </td>
-      <td>微信小程序</td>
+      <td>微信小程序(Deprecated)</td>
       <td>TypeScript</td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/inlym/life-helper-web"><b>life-helper-web</b></a>
       </td>
-      <td>Web 端</td>
+      <td>Web端(Deprecated)</td>
       <td>Angular + TypeScript + RxJS</td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/inlym/life-helper-backend"><b>life-helper-backend</b></a>
+      </td>
+      <td>服务端(Deprecated)</td>
+      <td>Node.js + TypeScript + Nest.js + MySQL + Redis + TypeORM</td>
+    </tr>
+    <tr>
 
   </tbody>
 </table>
@@ -56,7 +78,7 @@
   <thead align="center">
     <tr>
       <td><b>「小鸣助手」小程序</b></td>
-      <td><b>「小鸣助手」公众号</b></td>
+      <td><b>「小鸣 AI」公众号</b></td>
     </tr>
   </thead>
   <tbody>
@@ -65,7 +87,7 @@
         <img alt="「小鸣助手」小程序" src="./assets/qrcode/miniprogram.jpg" width="130" />
       </td>
       <td>
-        <img alt="「小鸣助手」公众号" src="./assets/qrcode/offiaccount.jpg" width="130" />
+        <img alt="「小鸣助手」小鸣 AI" src="./assets/qrcode/qrcode_for_ming-app.jpg" width="130" />
       </td>
     </tr>
   </tbody>
