@@ -1,5 +1,5 @@
 <h2>👋 Hey! Nice to see you.</h2>
-<p>嗨 ~ 欢迎访问我的个人主页，我是一个独立开发者，你可以通过我参与的项目来了解我。</p>
+<p>嗨 ~ 欢迎访问我的个人主页，我是一个独立开发者，你可以通过我的项目来了解我。</p>
 
 <h3>🛠️ 技术栈</h3>
 <p>
@@ -35,7 +35,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/inlym/life-helper-web-vue"><b>life-helper-web-vue</b></a>
+        <a href="https://github.com/inlym/life-helper-vue"><b>life-helper-vue</b></a>
       </td>
       <td>Web端</td>
       <td>Vue.js + TypeScript + Pinia</td>
