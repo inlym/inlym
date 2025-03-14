@@ -69,7 +69,6 @@
       <td>Node.js + TypeScript + Nest.js + MySQL + Redis + TypeORM</td>
     </tr>
     <tr>
-
   </tbody>
 </table>
 
