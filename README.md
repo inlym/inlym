@@ -86,7 +86,7 @@
         <img alt="「小鸣助手」小程序" src="./assets/qrcode/miniprogram.jpg" width="130" />
       </td>
       <td>
-        <img alt="「小鸣助手」小鸣 AI" src="./assets/qrcode/qrcode_for_ming-app.jpg" width="130" />
+        <img alt="小鸣 AI" src="./assets/qrcode/qrcode_for_ming-app.jpg" width="130" />
       </td>
     </tr>
   </tbody>
